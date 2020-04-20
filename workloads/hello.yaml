@@ -18,4 +18,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: nginx:stable
+        image: nginx:alpine
