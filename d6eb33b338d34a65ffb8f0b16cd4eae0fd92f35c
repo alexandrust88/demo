@@ -1,0 +1,1 @@
+{"jobID":"63c8f22c-84be-2cbe-11df-5c05f9e1d163","spec":{"type":"image","cause":{"Message":"","User":""},"spec":{"ServiceSpecs":["lasample:deployment/hello"],"ImageSpec":"nginx:stable","Kind":"execute","Excludes":null,"Force":false}},"result":{"lasample:deployment/hello":{"Status":"success","PerContainer":[{"Container":"hello","Current":"nginx:perl","Target":"nginx:stable"}]}}}
