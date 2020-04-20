@@ -1,0 +1,1 @@
+{"jobID":"b42927a0-adae-d857-5fa8-5f768f5983b2","spec":{"type":"image","cause":{"Message":"","User":""},"spec":{"ServiceSpecs":["lasample:deployment/hello"],"ImageSpec":"nginx:alpine","Kind":"execute","Excludes":null,"Force":false}},"result":{"lasample:deployment/hello":{"Status":"success","PerContainer":[{"Container":"hello","Current":"nginx:stable","Target":"nginx:alpine"}]}}}
